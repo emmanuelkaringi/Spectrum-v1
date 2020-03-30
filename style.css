@@ -1,0 +1,41 @@
+h3{
+	font-family: 'Pacifico', cursive;
+	border: 4px;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+}
+
+table{
+	margin: auto;
+}
+
+#color1{
+	width: 150px;
+	height: 350px;
+	background-color: #39bdc8;
+	margin-right: 10px
+}
+
+#color2{
+	width: 150px;
+	height: 350px;
+	background-color: #59d4e8;
+}
+
+#color3{
+	width: 150px;
+	height: 350px;
+	background-color: #caa5f1;
+}
+
+#color4{
+	width: 150px;
+	height: 350px;
+	background-color: #fac0e1;
+}
+
+#color5{
+	width: 150px;
+	height: 350px;
+	background-color: #fef4a9;
+}
