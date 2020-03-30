@@ -8,6 +8,9 @@ h3{
 .colors{
 	margin: auto;
 }
+td{
+	border: 4px solid white;
+}
 
 #color1{
 	width: 150px;
